@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bfarabi&label=Profile%20views&color=0e75b6&style=flat" alt="bfarabi" /> </p>
 
-- 👨‍💻 All of my projects are available at [Github.com/bfarabi](Github.com/bfarabi)
+- 👨‍💻 All of my projects are available at [https://github.com/bfarabi](https://github.com/bfarabi)
 
 - 📫 How to reach me **Billal.Farabi1@gmail.com**
 
