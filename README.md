@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billal Farabi</h1>
-<h3 align="center">A passionate MERN stack developer Bangladesh.</h3>
+<h3 align="center">A passionate junior web developer Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bfarabi&label=Profile%20views&color=0e75b6&style=flat" alt="bfarabi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Billal.Farabi1@gmail.com**
 
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
+- 📄 Know about my experiences [project based about 1 year experience.]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
