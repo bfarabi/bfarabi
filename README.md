@@ -11,6 +11,56 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <div className="about-me-options">
+                <ReactTooltip place="top" type="dark" effect="solid" />
+
+                  <a
+                     data-tip="Linkedin"
+                    href="https://www.linkedin.com/in/billal-farabi/"
+                    target="_blank"
+                  >
+                    <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />
+                  </a>
+
+                  <a
+                  data-tip="Facebook"
+                    href="https://www.facebook.com/profile.php?id=100010115470469"
+                    target="_blank"
+                  > 
+                    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />
+                  </a>
+                  <a data-tip="Twitter" href="https://twitter.com/billal_farabi_" target="_blank">
+                    <span class="iconify mx-1" data-icon="logos:twitter" data-width="45"></span>
+                    
+                  </a>
+                  
+                  <a 
+                  data-tip="Github"
+                   href="https://github.com/bfarabi" target="_blank">
+                    <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" />
+                  </a>
+                  <a data-tip="Stackoverflow" href="https://stackoverflow.com/users/18468113/billal-farabi" target="_blank">
+                    <span class="iconify mx-1" data-icon="logos:stackoverflow-icon" data-width="35"></span>
+                  </a>
+                  
+                  <a  data-tip="Medium"  href="https://medium.com/@Billal.Farabi" target="_blank">
+                    <span class="iconify text-white mx-2 rounded" style={{ backgroundColor: "black" }} data-icon="bi:medium" data-width="40"></span>
+                  </a>
+
+                  <br />
+                </div>
+                <div className=" py-2 px-0">
+
+                  <a href="https://www.linkedin.com/in/billal-farabi/" target="_blank">
+                    <button className="btn btn-info fw-bold px-2 me-2 my-1"> Hire Me </button>
+                  </a>
+
+                  <a href="https://drive.google.com/file/d/1aSgxNRJbeAe_IL7jFQ1icjyWh1iIH5KI/view" target="_blank">
+                    <button className="btn btn-info fw-bold px-2 my-1"> <i class="bi bi-download fw-bold mx-2"></i>Get Resume</button>
+                  </a>
+                </div>
+  
+  
 <a href="https://twitter.com/billal_farabi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billal_farabi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/billal-farabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billal_farabi" height="30" width="40" /></a>
 </p>
