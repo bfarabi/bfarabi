@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Billal.Farabi1@gmail.com** or knock me whatsapp : +8801625594691
 
-- 📄 Know about my experiences [project based about 1+ year experience.]()
+- 📄 Know about my experiences [project based about 2+ year experience.]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
